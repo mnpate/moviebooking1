@@ -1,0 +1,11 @@
+﻿    body
+{
+    font-family: Arial;
+    font-size: 10pt;
+}
+
+#txtDate {
+    position: relative;
+    top: -7px;
+    margin-right: 5px;
+}
